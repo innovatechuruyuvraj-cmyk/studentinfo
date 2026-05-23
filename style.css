@@ -1,0 +1,18 @@
+h1{
+   border: 10px solid red;
+   border-radius: 5px;
+   background-color: red;
+   padding: 5px;
+   color: white;
+   
+}
+div{
+   background-color: black;
+   padding: 10px;
+   color: white;
+   border-radius: 10px;
+}
+
+p{
+   font-weight: bold;
+}
